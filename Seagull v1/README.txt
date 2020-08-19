@@ -1,11 +1,5 @@
 README
 
-Course: CS400
-Semester: Summer 2020
-Project Name: Seagull
-Student Name: Reed Nelson
-Email: rdnelson6@wisc.edu
-
 Instructions:
 - File IO is optional. there are 3 .csv files in the Resources folder which are example input files.
 out.txt is a optional output file. It logs every cell at every generation, so the file can get big
